@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body style ="font-size:25px;">
+<div align="center">
+<img src="quiz.png"alt="Quiz Cover"width="500"
+height="200">
+            </div>
+<h1>which one of the following is not a programming language of a computer ?</h1>
+
+<li>Python</li>
+<li>Javascript</li>
+<li>Html</li>
+<li>code.org</li>
+   </ol>
+<span>,
+<label>enter answer:</label><input type="text" id="txtAns">
+         <button>
+type="button">Click Me!</button>
+         Correct answer is
+<output id="Answer"></output>
+        </span>
+      </form>
+    </body>
+  </html>
